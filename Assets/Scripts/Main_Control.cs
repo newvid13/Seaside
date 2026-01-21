@@ -96,6 +96,7 @@ public class Main_Control : MonoBehaviour
 
     public void Restart()
     {
+        DOTween.KillAll();
         SceneManager.LoadScene(0);
     }
 
