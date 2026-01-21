@@ -1,2 +1,9 @@
 # Seaside
-Made for Mini Jam #108
+Made in 72 hours for Mini Jam #108
+
+## Play the game
+https://newvid.itch.io/seaside-is-infinite
+
+## Info
+Older game that was made somewhat hurriedly.
+Software used: Unity, Blender, Paint.NET, Audacity
