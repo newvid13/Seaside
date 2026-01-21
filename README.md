@@ -1,6 +1,8 @@
 # Seaside
 Made in 72 hours for Mini Jam #108
 
+![Screenshot](sI.png)
+
 ## Play the game
 https://newvid.itch.io/seaside-is-infinite
 
