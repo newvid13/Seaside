@@ -6,4 +6,4 @@ https://newvid.itch.io/seaside-is-infinite
 
 ## Info
 Older game that was made somewhat hurriedly.
-Software used: Unity, Blender, Paint.NET, Audacity
+Tools used: Unity, Blender, Paint.NET, Audacity
